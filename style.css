@@ -1,0 +1,29 @@
+.div1 {
+    border: 5px outset orangered;
+    background-color: lightblue;
+    text-align: center;
+}
+
+.div2 {
+    border: 5px outset greenyellow;
+    background-color: grey;
+    text-align: center;
+}
+
+.div3 {
+    border: 5px outset rebeccapurple;
+    background-color: whitesmoke;
+    text-align: center;
+}
+
+.div4 {
+    border: 5px outset blue;
+    background-color: yellow;
+    text-align: center;
+}
+
+.div5 {
+    border: 5px outset cyan;
+    background-color: orange;
+    text-align: center;
+}
