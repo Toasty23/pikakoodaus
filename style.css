@@ -1,29 +1,52 @@
+/* HTML Section */
 .div1 {
-    border: 5px outset orangered;
-    background-color: lightblue;
-    text-align: center;
+    background-color: #ff0000;
+    border-radius: 10px;
+    background-image: radial-gradient(circle at center, #ff0000, transparent);
+    margin-bottom: 20px;
 }
 
+/* CSS Section */
 .div2 {
-    border: 5px outset greenyellow;
-    background-color: grey;
-    text-align: center;
+    background-color: #a807e7;
+    border-radius: 20px;
+    color: #fff;
+    padding: 20px;
+    background-image: radial-gradient(circle at center, #a807e7, transparent);
+    margin-bottom: 20px;
 }
 
+/* JavaScript Section */
 .div3 {
-    border: 5px outset rebeccapurple;
-    background-color: whitesmoke;
-    text-align: center;
+    background-color: #2ecc71;
+    border-radius: 5px;
+    border: 2px solid #d5e408;
+    padding: 15px;
+    background-image: radial-gradient(circle at center, #2ecc71, transparent);
+    margin-bottom: 20px;
 }
 
+/* Python Section */
 .div4 {
-    border: 5px outset blue;
-    background-color: yellow;
-    text-align: center;
+    background-color: #9b59b6;
+    border-radius: 30px;
+    padding: 25px;
+    color: #fff;
+    background-image: radial-gradient(circle at center, #9b59b6, transparent);
+    margin-bottom: 20px;
 }
 
+/* C++ Section */
 .div5 {
-    border: 5px outset cyan;
-    background-color: orange;
-    text-align: center;
+    background-color: #e74c3c;
+    border-radius: 0;
+    padding: 30px;
+    color: #fff;
+    background-image: radial-gradient(circle at center, #e74c3c, transparent);
+    margin-bottom: 20px;
+}
+
+/* Body Background */
+body {
+    background-color: #00ffbf;
 }
